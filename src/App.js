@@ -42,6 +42,8 @@ function App() {
           price={coin.current_price}
           pricechange={coin.price_change_percentage_24h}
 //           volume={coin.total_volume}
+
+// testing git
           />
         );
       })}
