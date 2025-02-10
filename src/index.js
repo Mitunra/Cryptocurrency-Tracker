@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 
-// Test 123
+// Test git conflict
 ReactDOM.render(
   <React.StrictMode>
     <App />
